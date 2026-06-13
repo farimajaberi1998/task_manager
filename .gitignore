@@ -1,23 +1,5 @@
-# Django
-db.sqlite3
-*.log
-local_settings.py
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Virtual environment
 venv/
-.venv/
-env/
-
-# Environment variables
+__pycache__/
+*.pyc
+db.sqlite3
 .env
-
-# VS Code
-.vscode/
-
-# macOS
-.DS_Store
